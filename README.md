@@ -10,9 +10,9 @@ This section lists all resources used.
 ### The following sources contributed expertise to this article
 
 | Interviewees | Affiliation |
-|----------------------------------------------------------------|---------------------------------------|
-| Sian Sutherland (25.02.2021)                 | [A Plastic Planet](https://aplasticplanet.com/) |
-| Andy Gheorghiu (26.04.2021)                  | Campaigner & Consultant for climate/environmental protection, energy policy & further development of democratic processes  |
+|----------------------------------------------------------------|------------------------------|
+| Sian Sutherland (25.02.2021)                             | [A Plastic Planet](https://aplasticplanet.com/) |
+| Andy Gheorghiu (26.04.2021)                              | Campaigner & Consultant for climate/environmental protection, energy policy & further development of democratic processes  |
 | Mark van Baal (23.03.2021)                   | [Follow This](https://follow-this.org/) |
 | Cornelia Wolber (By email 16.03.2021)        | Shell Deutschland Oil GmbH |
 | Philipp Roßkopf (By email 09.03)             | BASF |
