@@ -19,7 +19,7 @@ This section lists all resources used.
 | Jacob Duer (26.08.2020)                      | Alliance to End Plastic Waste |
 | Graham Forbes (19.03.2021)                   | Greenpeace |
 | Gerald Rebitzer (18.03.2021)                 | Amcor |
-| Emma Priestland, (05.05.2021)                | Break Free from Plastic |
+| Emma Priestland (05.05.2021)                | Break Free from Plastic |
 | Sven Weihe (17.03.2021)                      | Plastics Europe |
 
 
