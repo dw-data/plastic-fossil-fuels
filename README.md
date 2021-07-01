@@ -1,6 +1,6 @@
 # Plastic: A lifeline for the fossil fuel industry? 
 
-You can read the story at [DW](). 
+You can read the story at [DW](https://plastic-pollution-crisis-and-fossil-fuel-industry.dw.com). 
 
 ## Sources, references and studies
 
